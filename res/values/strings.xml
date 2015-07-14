@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DrawerMenu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        
+    <string name="home">Home</string>
+    <string name="head1">About The App</string>
+    <string name="name">Your name</string>
+    <string name="head2">Welcome to Manipal</string>
+    <string name="info">This is where we put in the basic stuff about the app  or about manipal</string>
+    
+    <string name="websis">Websis</string>
+    <string name="website">Manipal</string>
+    <string name="mitfiles">MIT Files</string>
+    <string name="mttn">MTTN</string>
+    <string name="techtatva">Techtatva</string>
+    <string name="revels">Revels</string>
+    <string name="student_council">Student Council</string>
+    <string name="manipal_blog">Manipal Blog</string>
+    <string name="contact">Contact us</string>
+    
+    <string-array name="quicklinks">
+        <item>Home</item>
+        <item>Websis</item>
+        <item>manipal.edu</item>
+        <item>mitfiles.com</item>
+        <item>MTTN</item>
+        <item>TechTatva</item>
+        <item>Revels</item>
+        <item>StudentCouncil</item>
+        <item>Manipal Blog</item>
+        <item>Contact us</item>
+    </string-array>
+</resources>

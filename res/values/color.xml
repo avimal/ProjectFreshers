@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0d4b72</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#999999</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#009933</color>
+    <color name="yellow">#e8e819</color>
+    <color name="orange">#e86c19</color>
+    <color name="pink">#ff3399</color>
+    <color name="purple">#990099</color>
+    <color name="brown">#661a00</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+	   
+</resources>
